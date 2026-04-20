@@ -31,4 +31,8 @@ Este projeto foi desenvolvido com o objetivo de aplicar conceitos de automação
 
 ---
 
+## 📥 Download da planilha
+
+[https://docs.google.com/spreadsheets/d/1jnA_n9ESpH18KVgmGKExNeZCNezcp3UP7ZUiB4fRPbU/edit?usp=sharing](./planilha.xlsm)
+
 📎 *Projeto desenvolvido para fins acadêmicos e de aprendizado.*
