@@ -8,7 +8,7 @@ Criar uma solução prática para otimizar o controle de tarefas, melhorar a pro
 
 ## ⚙️ Funcionalidades
 
-- Automação de processos com macros (VBA)
+- Automação de processos com macros 
 - Controle de atividades e tarefas
 - Organização baseada em metodologia ágil (Scrum)
 - Otimização de tempo e redução de tarefas manuais
@@ -16,7 +16,7 @@ Criar uma solução prática para otimizar o controle de tarefas, melhorar a pro
 ## 🛠️ Tecnologias utilizadas
 
 - Google Sheets
-- VBA (Visual Basic for Applications)
+- Macros
 
 ## 📌 Metodologia
 
