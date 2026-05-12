@@ -15,7 +15,7 @@ Criar uma solução prática para otimizar o controle de tarefas, melhorar a pro
 
 ## 🛠️ Tecnologias utilizadas
 
-- Microsoft Excel
+- Google Sheets
 - VBA (Visual Basic for Applications)
 
 ## 📌 Metodologia
