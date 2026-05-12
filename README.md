@@ -1,6 +1,6 @@
 # 📊 Planilha Automatizada - Corretoras de Sucesso
 
-Projeto desenvolvido com foco na automação de processos e organização de atividades utilizando Excel e VBA (macros).
+Projeto desenvolvido com foco na automação de processos e organização de atividades utilizando Google Sheets e Macros.
 
 ## 🚀 Objetivo
 
